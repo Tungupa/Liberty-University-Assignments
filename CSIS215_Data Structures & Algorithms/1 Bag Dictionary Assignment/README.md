@@ -1,4 +1,4 @@
-Approach Documentation
+# Approach Documentation
 The documentation has two parts, the first part is the “Implementation.” This explains how I implemented my solution from the ADTs that were provided. The second part is the “Test.” This shows how I tested each required function. Both sections will be discussed relative to the two files that I worked on, Abag.h and BDictionary.
  Before starting to work on my implementation and testing, I needed to understand the problem more thoroughly. To do that I drew a flowchart to see the inheritance of the different header files. This gave me a foundation to work on.
 
